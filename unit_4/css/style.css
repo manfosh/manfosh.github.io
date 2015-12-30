@@ -1,0 +1,59 @@
+@import url(https://fonts.googleapis.com/css?family=Rye|Roboto|Oswald:400,700|Roboto+Condensed:700|Dosis:600|Lobster|Signika|Signika+Negative|Lily+Script+One);
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+}
+
+header h1 {
+    font-family: 'Lobster', sans-serif;
+    font-size: 4em;
+    text-align: center;
+}
+
+
+h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+  
+
+p {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+nav a {
+    font-family: 'Roboto', sans-serif;
+    color: #55cc45;
+    text-decoration: none;
+    text-transform: none;
+    margin-right: 10px;
+}
+ 
+
+ul {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+    
+li {
+
+
+}
+
+img {
+    width: 100%;
+
+}
+
+#slogan {
+
+}
