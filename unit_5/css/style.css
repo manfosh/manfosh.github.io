@@ -16,6 +16,7 @@ header {
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
+    vertical-align: center;
 }
 
 header h1 {
@@ -30,6 +31,14 @@ header p {
     font-size: 1em;
     text-align: center;
     padding: 10px;
+}
+
+header img {
+    height: 25%;
+    width: 25%;
+    text-align:center;
+    margin: 0 auto;
+    padding:0px; 
 }
 
 section {
